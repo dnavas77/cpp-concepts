@@ -19,15 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\MultipleBuilders\PersonBuilder.cpp" />
-    <ClCompile Include="src\MultipleBuilders\Person.cpp" />
-    <ClCompile Include="src\MultipleBuilders\MultipleBuilders.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="src\MultipleBuilders\PersonAddressBuilder.h" />
-    <ClInclude Include="src\MultipleBuilders\PersonBuilder.h" />
-    <ClInclude Include="src\MultipleBuilders\Person.h" />
-    <ClInclude Include="src\MultipleBuilders\PersonJobBuilder.h" />
+    <ClCompile Include="src\MaybeMonad.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
